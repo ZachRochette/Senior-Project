@@ -1,0 +1,19 @@
+{
+  "name": "senior-project",
+  "version": "1.0.0",
+  "description": "Senior Project Social Media App",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachRochette/Senior-Project.git"
+  },
+  "author": "Zach Rochette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachRochette/Senior-Project/issues"
+  },
+  "homepage": "https://github.com/ZachRochette/Senior-Project#readme"
+}
