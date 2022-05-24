@@ -4,7 +4,7 @@ const UserSchema = new mongoose.Schema(
   {
     username: {
       type: String,
-      required: true,
+      require: true,
       min: 3,
       max: 20,
       unique: true,
@@ -28,7 +28,7 @@ const UserSchema = new mongoose.Schema(
       type: String,
       default: "",
     },
-    follwers: {
+    followers: {
       type: Array,
       default: [],
     },
