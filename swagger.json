@@ -5,7 +5,7 @@
     "description": "Users API",
     "version": "1.0.0"
   },
-  "host": "cse341-p2.herokuapp.com",
+  "host": "cse341-project2-fullstackapp.herokuapp.com",
   "basePath": "/",
   "schemes": [
     "https"
